@@ -1,0 +1,10 @@
+# ignore wifipass, apikeys, etc.
+credentials.h
+nogit
+.DS_Store
+.pioenvs
+.piolibdeps
+.pio
+.vscode
+dev.sh
+Guardfile
